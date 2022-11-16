@@ -1,2 +1,2 @@
 # studyBuddy
-This is a website mockup for a fictional social media company focused on educational connections.
+This is a website for a fictional social media company focused on fostering educational connections.
